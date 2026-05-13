@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Local generated data
+data/*
+!data/.gitkeep
+!data/**/.gitkeep
+
+# Local URLs
+config/urls.csv
+
+# Notebook/Jupyter output
+.ipynb_checkpoints/
+*_executed.py
+
+# Environment and local files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+faster-whisper
+torch
+jupyter
+notebook
+nbconvert
+pandas
